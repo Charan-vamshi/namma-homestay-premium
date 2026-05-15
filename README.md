@@ -1,6 +1,7 @@
 # Namma HomeStay Premium
 
 A premium rural homestay discovery and booking Android application built using Kotlin and Jetpack Compose.
+Built with modern Android architecture.
 
 ## Features
 
